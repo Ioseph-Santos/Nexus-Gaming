@@ -20,6 +20,7 @@
 
 //   });
 import anime from 'node_modules/animejs/lib/anime.min.js';
+const anime = require('animejs');
   // ------------------------------------------------ Mudando de cor o nome -------------------------------------------
   var titulo = document.querySelector("#h1")
   var span = document.querySelector(".span")

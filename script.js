@@ -19,7 +19,7 @@
 //     delay: anime.stagger(200, {grid: [79, 5], from: 'center'})
 
 //   });
-import anime from 'animejs/lib/anime.es.js';
+import anime from 'node_modules/animejs/lib/anime.es.js';
   // ------------------------------------------------ Mudando de cor o nome -------------------------------------------
   var titulo = document.querySelector("#h1")
   var span = document.querySelector(".span")
